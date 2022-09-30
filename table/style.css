@@ -7,11 +7,11 @@ body {
 }
 
 p {
-    padding-left: 20px;
+    padding-left: 25px;
 }
 
 h3 {
-    padding-left: 20px;
+    padding-left: 25px;
 }
 
 h3:target {
@@ -21,7 +21,7 @@ h3:target {
 
 a {
     text-decoration: none;
-    color: rgb(0, 255, 170);
+    color: rgb(54, 135, 108);
 }
 
 a:hover {
@@ -37,7 +37,7 @@ a:active {
     background-color: white;
     height: 170px;
     width: 170px;
-    border: solid 1px;
+    border: solid 3px;
 }
 
 .backgorund-links {
@@ -51,7 +51,7 @@ a:active {
 .articles {
     display: inline-block;
     background-color: rgb(180, 180, 180);
-    height: 170px;
+    height: 210px;
     width: 210px;
     margin: 5px;
 }
